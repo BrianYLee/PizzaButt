@@ -11,24 +11,25 @@ Check out [Here](https://www.typescriptlang.org/docs/handbook/basic-types.html) 
 ## Requirements:
 
 - mongodb
-	- ```BASH
-	brew install mongodb
+```BASH
+brew install mongodb
 	
-	# dont forget to create "db" directory
-	mkdir -p /data/db
+# dont forget to create "db" directory
+mkdir -p /data/db
 
-	# Make sure `/data/db` directory has the right permissions
-	sudo chown -R `id -un` /data/db
-	# enter your password
-	```
+# Make sure `/data/db` directory has the right permissions
+sudo chown -R `id -un` /data/db
+# enter your password
+```
+
 - node and npm
-	- ```BASH
-	brew install node
+```BASH
+brew install node
 
-	# check node and npm version
-	node -v
-	npm -v
-	```
+# check node and npm version
+node -v
+npm -v
+```
 
 ## install modules:
 
