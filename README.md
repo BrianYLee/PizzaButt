@@ -8,6 +8,8 @@ Angular is built with TypeScript. Only modify `.ts` files, as any change in `.ts
 
 Check out [Here](https://www.typescriptlang.org/docs/handbook/basic-types.html) for more info on TypeScript.
 
+Check out [Here](https://angular.io/guide/quickstart) for more info on Angular
+
 ## Requirements:
 
 - mongodb
